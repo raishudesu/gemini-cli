@@ -80,7 +80,7 @@ git clone https://github.com/raishudesu/gemini-cli
    python gemini_cli.py
    ```
 
-3. Start chatting with Gemini AI! Type your messages and press Enter. Type `exit` to end the conversation.
+3. Start chatting with Gemini AI! Type your messages and press Enter. Type `exit` to end the conversation or type `export` to export and end conversation.
 
 ## Troubleshooting
 
