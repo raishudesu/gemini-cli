@@ -77,7 +77,7 @@ git clone https://github.com/raishudesu/gemini-cli
 2. Run the Python script using the following command:
 
    ```bash
-   python gemini_cli.py
+   python gemini-cli.py
    ```
 
 3. Start chatting with Gemini AI! Type your messages and press Enter. Type `exit` to end the conversation or type `export` to export and end conversation.
