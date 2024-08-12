@@ -111,3 +111,8 @@ def chat_with_gemini():
 
 if __name__ == "__main__":
     chat_with_gemini()
+
+
+# DEV NOTES
+# Add feature to select a conversation history to restore/access/continue conversation with Gemini if exist
+# Make this Gemini CLI as a package and can be called anytime in terminals 
